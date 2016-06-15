@@ -1,0 +1,2 @@
+{"request": {"rest":"/xw3/ClientService","method":"user_logout","params":{"sessionId":"{{ALL[0]}}"}}
+,"result":null}

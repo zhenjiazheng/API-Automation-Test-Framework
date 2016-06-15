@@ -1,0 +1,2 @@
+{"request": {"rest":"/xw3/MerchantService","method":"baseData_listDistrict","params":{"sessionId":"{{ALL[0]}}"}}
+,"result":{"code":{"type":"int",">=":0},"name":{"type":"str"}}}

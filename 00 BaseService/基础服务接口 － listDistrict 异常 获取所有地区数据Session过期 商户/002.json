@@ -1,0 +1,2 @@
+{"request": {"rest":"/xw3/MerchantService","method":"merchant_logout","params":{"sessionId":"{{ALL[0]}}"}}
+,"result":null}

@@ -1,0 +1,2 @@
+{"request": {"rest":"/xw3/ClientService","method":"user_login","params":{"account":"{{DICT.User1}}","password":"123456"}}
+,"result":{"type":"str"}}
